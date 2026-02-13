@@ -5,7 +5,7 @@ body {
     height: 100vh;
     margin: 0;
     background-color: powderblue;
-    font-family: "Courier New", monospace;
+    font-family: monospace;
 }
 
 .container {
@@ -15,7 +15,7 @@ body {
 .header_text {
     font-size: 2.5rem;
     color:  #d32f2f;
-    font-family: "Courier New", monospace;
+    font-family: monospace;
 }
 
 .gif_container img {
